@@ -15,6 +15,8 @@
 brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize webpquicklook suspicious-package quicklookase qlvideo
 ```
 
+*…except for **BetterZipQL**. It can be installed with brew but [see below for caveats](#qlimagesize).*
+
 ### Manually
 
 - Click "download manually"
